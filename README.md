@@ -2,7 +2,8 @@
 (1) FND 8자리를 이용하여 시/분/초를 표시하는 동작
 (2) Toggle switch를 사용해서 sw = 0 이면 시/분/초를 표시하는 모듈이 동작하고, sw = 1이면 년도/오늘 날짜를 표시하는 모듈로 전환됨
 (3) 24시간이 넘어가면 날짜가 바뀌는 모듈
-![image](https://github.com/user-attachments/assets/f1d62a33-fb3f-4789-9c74-7e79ec5cc4a0)
+
+![image](https://github.com/user-attachments/assets/e9641987-ea8f-40b2-9da7-dac0d8affb76)
 
 235959(Hex) --> 23시 59분 59초를 의미함, 그때 틱신호를 발생시켜 날짜를 하루 증가시킴
 oDATA_CNT를 보면 0401(4월1일)을 의미하고 0402(4월 2일)을 의미함, 24시간이 지나면 날짜가 하루 올라가는 것을 시뮬레이션으로 확인함
