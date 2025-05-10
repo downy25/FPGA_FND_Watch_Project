@@ -2,7 +2,11 @@
 
 # What to do?
 (1) FND 8자리를 이용하여 시/분/초를 표시하는 동작
+
+
 (2) Toggle switch를 사용해서 sw = 0 이면 시/분/초를 표시하는 모듈이 동작하고, sw = 1이면 년도/오늘 날짜를 표시하는 모듈로 전환됨
+
+
 (3) 24시간이 넘어가면 날짜가 바뀌는 모듈
 
 ![image](https://github.com/user-attachments/assets/d7f200f5-aa2f-49b9-bd75-ad8d5be93cdc)
